@@ -22,4 +22,4 @@ EXPOSE 80
 # A main.js file must be present, if not Parse will not start
 # VOLUME ./cloud /parse/cloud               
 
-CMD [ "npm", "start" ]
+# CMD [ "npm", "start" ]
